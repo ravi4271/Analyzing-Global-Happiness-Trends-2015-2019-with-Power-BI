@@ -27,21 +27,22 @@ The dataset contains happiness scores and contributing factors for 156+ countrie
 ![Dashboard Screenshot](images/Screenshot%202025-04-02%20042323.png)
 
 
-![Dashboard Screenshot](images/Screenshot%202025-04-02%20042501.png)
+
 2. Global Happiness Map
 
 Visualizations:
 
-
+![Dashboard Screenshot](images/Screenshot%202025-04-02%20042550.png)
 
 
 
 
 3. Happiness Factor Analysis
-Page 3 Screenshot
+
 
 Visualizations:
 
+![Dashboard Screenshot](images/Screenshot%202025-04-02%20042616.png)
 
 
 
@@ -49,8 +50,7 @@ Visualizations:
 
 
 
-
-Key Insights
+# Key Insights
 Consistent Top Performers: Nordic countries (Finland, Denmark, Norway) consistently rank highest in happiness
 
 Temporal Trends: Some countries show improvement while others decline over the 5-year period
@@ -74,7 +74,7 @@ Visual types: Bar charts, map, cluster chart, gauge, text boxes
 
 Filters: Year slicer synchronized across all pages
 
-Data transformations: Happiness categories calculated via DAX measures
+
 
 
 # License
