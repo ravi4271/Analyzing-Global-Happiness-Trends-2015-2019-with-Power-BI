@@ -26,6 +26,8 @@ The dataset contains happiness scores and contributing factors for 156+ countrie
 
 ![Dashboard Screenshot](images/Screenshot%202025-04-02%20042323.png)
 
+
+![Dashboard Screenshot](images/Screenshot%202025-04-02%20042501.png)
 2. Global Happiness Map
 
 Visualizations:
