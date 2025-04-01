@@ -1,4 +1,4 @@
-# World-Happiness-Data-Analysis---Power-BI-Project
+# World Happiness Data Analysis Through Power BI
 
 ## Project Overview
 This Power BI project analyzes global happiness data from 2015-2019, visualizing trends and patterns in happiness scores across countries and exploring relationships between happiness and various socioeconomic factors.
