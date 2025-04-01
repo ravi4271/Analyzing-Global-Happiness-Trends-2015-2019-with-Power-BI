@@ -78,4 +78,4 @@ Filters: Year slicer synchronized across all pages
 
 
 # License
-This project is open-source and available under the MIT License.
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
